@@ -1,0 +1,4 @@
+[22-Jan-2023 12:21:00 UTC] PHP Fatal error:  Trait "App\Http\traits\FileTrait" not found in /home/efadpxso/ghazala.efada-academy.com/app/Http/Controllers/Admin/AccountController.php on line 15
+[22-Jan-2023 12:22:00 UTC] PHP Fatal error:  Trait "App\Http\Trait\NotificationTrait" not found in /home/efadpxso/ghazala.efada-academy.com/app/Http/Controllers/Admin/TripController.php on line 10
+[22-Jan-2023 12:26:34 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\Admin\ClientController as ClientController because the name is already in use in /home/efadpxso/ghazala.efada-academy.com/routes/web.php on line 15
+[23-Jan-2023 13:53:27 UTC] PHP Fatal error:  Cannot use App\Models\Client as Client because the name is already in use in /home/efadpxso/ghazala.efada-academy.com/app/Http/Controllers/HomeController.php on line 7
